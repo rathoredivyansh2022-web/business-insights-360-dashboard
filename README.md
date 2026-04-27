@@ -1,3 +1,6 @@
+## 🎥 Dashboard Demo
+[Watch Video](https://youtu.be/Gieda3GyW4U)
+
 # 📊 Business Insights 360 – Power BI Project
 
 ## 🚀 Project Overview
