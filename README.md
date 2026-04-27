@@ -5,6 +5,9 @@
 ## 🎥 Dashboard Demo
 [Watch Video](https://youtu.be/Gieda3GyW4U)
 
+## 🌐 Live Dashboard
+[View Interactive Dashboard](https://lnkd.in/gMYr_STK)
+
 # 📊 Business Insights 360 – Power BI Project
 
 ## 🚀 Project Overview
