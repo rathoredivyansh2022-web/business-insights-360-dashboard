@@ -6,7 +6,7 @@
 [Watch Video](https://youtu.be/Gieda3GyW4U)
 
 ## 🌐 Live Dashboard
-[View Interactive Dashboard](https://lnkd.in/gMYr_STK)
+[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzQ2YmM2YjQtMzFiOC00MjUxLWJiOTgtZTEwOTIxN2UwZjE1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # 📊 Business Insights 360 – Power BI Project
 
