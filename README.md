@@ -1,9 +1,7 @@
 ## 🎥 Dashboard Demo
 [Watch Video](https://youtu.be/Gieda3GyW4U)
 ## 📸 Dashboard Preview
-
-![Dashboard](Screenshot 2026-04-27 091603)
-
+![Dashboard](Screenshots/Screenshot%202026-04-27%20091603.png)
 
 # 📊 Business Insights 360 – Power BI Project
 
