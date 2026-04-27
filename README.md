@@ -2,7 +2,8 @@
 [Watch Video](https://youtu.be/Gieda3GyW4U)
 ## 📸 Dashboard Preview
 
-![Business Insights Dashboard](Screenshots/dashboard-overview.png)
+![Dashboard](Screenshots/Screenshot%202026-04-27%20090022.png)
+![Dashboard](Screenshots/Screenshot%202026-04-27%20090141.png)
 
 # 📊 Business Insights 360 – Power BI Project
 
